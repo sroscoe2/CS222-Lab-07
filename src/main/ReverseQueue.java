@@ -11,16 +11,7 @@ import main.stacks.Stack;
 public class ReverseQueue {
 	
 	public static Queue<Integer> reverse(Queue<Integer> q){
-		
-		Stack<Integer> s = new ALStack<>();
-		while (!q.isEmpty()) {
-			s.push(q.dequeue());
-		}
-		while(!s.isEmpty()) {
-			q.enqueue(s.pop());
-		}
-		
-		return q;
+		return null;		
 	}
 
 	public static void main(String[] args) {

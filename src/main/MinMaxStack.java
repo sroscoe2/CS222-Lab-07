@@ -9,41 +9,11 @@ import main.stacks.Stack;
 public class MinMaxStack {
 	
 	public static int minStack(Stack<Integer> s) {
-		if (s.isEmpty())
-			throw new IllegalArgumentException("can't find min of empty stack");
-		Stack<Integer> spare = new ALStack<>();
-		int min = s.peek();
-		while (!s.isEmpty()) {
-			int elt = s.pop();
-			if (elt < min) {
-				min = elt;
-			}
-			spare.push(elt);
-		}
-		// put back 
-		while (!spare.isEmpty()) {
-			s.push(spare.pop());
-		}
-		return min;
+		return 0;
 	}
 	
 	public static int maxStack(Stack<Integer> s) {
-		if (s.isEmpty())
-			throw new IllegalArgumentException("can't find max of empty stack");
-		Stack<Integer> spare = new ALStack<>();
-		int max = s.peek();
-		while (!s.isEmpty()) {
-			int elt = s.pop();
-			if (elt > max) {
-				max = elt;
-			}
-			spare.push(elt);
-		}
-		// put back 
-		while (!spare.isEmpty()) {
-			s.push(spare.pop());
-		}
-		return max;
+		return 0;
 	}
 
 
