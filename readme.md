@@ -20,11 +20,15 @@ This lab is used in CS 222 at Saint Mary's College of California. Written by Dr.
 
 ### ReverseQueue.java
 
-4. Open the file `ReverseQueue.java` in the `main` package. Implement the method `reverseQueue()`, which takes a Queue `q` as a parameter. You should use only Queue operations (enqueue, dequeue, peekFront/peekBack). Do not use Java-provided methods or interfaces.
+5. Open the file `ReverseQueue.java` in the `main` package. Implement the method `reverseQueue()`, which takes a Queue `q` as a parameter. You should use only Queue operations (enqueue, dequeue, peekFront/peekBack). Do not use Java-provided methods or interfaces.
 
-5. Run `ReverseQueueTests.java` and ensure all test cases pass.
+6. Run `ReverseQueueTests.java` and ensure all test cases pass.
 
-6. Ensure your project folder is named `firstNameLI-CS222-Lab-07`. Then zip the project folder and turn it in to Canvas.
+### Finishing Up
+
+7. Create a new text file in the root of the lab directory, named `examples.txt`. Brainstorm with your partner, and in this file, write down three examples for a real-life Stack, and three examples for a real-life Queue. Be creative! Do not use examples we have discussed in class.
+
+8. Ensure your project folder is named `firstNameLI-CS222-Lab-07`. Then zip the project folder and turn it in to Canvas.
 
 ## Explanations/Hints
 
