@@ -1,6 +1,6 @@
 # Programming II
 
-## Lab 7: Scanners, Reading and Writing Files
+## Lab 7: Stacks & Queues
 
 In this lab, you will implement additional operations to do with stacks and queues.
 
