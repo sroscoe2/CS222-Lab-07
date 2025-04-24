@@ -28,7 +28,7 @@ This lab is used in CS 222 at Saint Mary's College of California. Written by Dr.
 
 7. Create a new text file in the root of the lab directory, named `examples.txt`. Brainstorm with your partner, and in this file, write down three examples for a real-life Stack, and three examples for a real-life Queue. Be creative! Do not use examples we have discussed in class.
 
-8. Ensure your project folder is named `firstNameLI-CS222-Lab-07`. Then zip the project folder and turn it in to Canvas.
+8. Ensure your project folder is named correctly, with both you and your partners' name(s). Then zip the project folder and turn it in to Canvas.
 
 ## Explanations/Hints
 
