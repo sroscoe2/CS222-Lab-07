@@ -20,7 +20,7 @@ This lab is used in CS 222 at Saint Mary's College of California. Written by Dr.
 
 ### ReverseQueue.java
 
-5. Open the file `ReverseQueue.java` in the `main` package. Implement the method `reverseQueue()`, which takes a Queue `q` as a parameter. You should use only Queue operations (enqueue, dequeue). Do not use Java-provided methods or interfaces.
+5. Open the file `ReverseQueue.java` in the `main` package. Implement the method `reverse()`, which takes a Queue `q` as a parameter. You should use only Queue operations (enqueue, dequeue). Do not use Java-provided methods or interfaces.
 
 6. Run `ReverseQueueTests.java` and ensure all test cases pass.
 
